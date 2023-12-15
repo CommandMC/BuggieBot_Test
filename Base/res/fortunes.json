@@ -280,7 +280,7 @@
   {
     "quote": "\"Windows is great\"\n~ CxBoog, 2022",
     "author": "BertalanD",
-    "url":"https://discord.com/channels/830522505605283862/831544568767578162/1052206570274041987",
+    "url": "https://discord.com/channels/830522505605283862/831544568767578162/1052206570274041987",
     "utc_time": 1670935995,
     "context": "windows is a great platform if you want to challenge every single portability issue in the universe, *including* differences in #include resolution algorithms..."
   },
@@ -288,7 +288,7 @@
     "quote": "⚠️ WEN DETECTED ⚠️\nAccording to the Law of Kling, you are now obligated to implement it. :yakkie:",
     "author": "AtkinsSJ",
     "url": "https://discord.com/channels/830522505605283862/1012807179075600535/1055163396187766835",
-    "utc_time":1671640957,
+    "utc_time": 1671640957,
     "context": "hardware compositor wen :yakbait:"
   },
   {
@@ -324,6 +324,11 @@
     "url": "https://discord.com/channels/830522505605283862/860165510263996427/1154472970903887892",
     "utc_time": 1695318205,
     "context": "me: I'll just make NavigationParams match the spec\nevery call site that was constructing one with C++ designated initializers: error: ISO C++ requires field designators to be specified in declaration order; field 'reserved_environment' will be initialized after field 'navigable' [-Werror,-Wreorder-init-list]"
-    
+  },
+  {
+    "quote": "Test message",
+    "author": "commandmc",
+    "url": "https://discord.com/channels/566272553522298882/566272553954574337/1183918346996035695",
+    "utc_time": 1702640206
   }
 ]
